@@ -5,5 +5,5 @@ puts "Give me a number"
 number = gets.to_i
 
 number.times do
-  puts "The word is #{word}"
+  puts word
 end
